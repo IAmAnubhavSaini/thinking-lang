@@ -32,10 +32,25 @@ Learning rust-lang in 100 days
 ├── 100-medium-leetcode
 │   └── three-sum-1.rs
 ├── first-100
+│   ├── args-8.rs
 │   ├── binary-number-3.rs
+│   ├── commands-9.rs
 │   ├── fib-2.rs
 │   ├── hello-world-1.rs
 │   ├── impl-Display-for-i16-5.rs
-│   └── return-list-of-numbers-4.rs
+│   ├── prime_checker-10_2.rs
+│   ├── prime_checker-10.rs
+│   ├── return-list-of-numbers-4.rs
+│   ├── what-where-ami-6.rs
+│   ├── who-7.rs
+│   ├── whoami
+│   │   ├── Cargo.lock
+│   │   ├── Cargo.toml
+│   │   └── src
+│   │       └── main.rs
+│   ├── zipper-11.exe
+│   └── zipper-11.rs
+├── issues
+│   └── cannot-with-fibonnaci.rs
 └── README.md
 ```
